@@ -5,7 +5,7 @@
 *app.js verifica se nele existe alguma rota para aquela solicitação.
 Existindo ele entra na rota.
 *Entra na pasta "routes" e acessa a rota.
-Verifica se aquela rota esta configuradan econtra o caminho configurado no Controller.
+Verifica se aquela rota esta configurada e econtra o caminho configurado no Controller juntamente com as regras dentro do Controller.
 *O Controller identifica a solicitação e responde para a View finalizando o fluxo.
 
 # Responsabilidade de cada pasta dentro do MVC
