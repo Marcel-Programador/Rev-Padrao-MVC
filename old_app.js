@@ -1,3 +1,4 @@
+// Variavel express importando o pacote express para o arquivo app.js.
 const express = require("express");
 // Variavel app executando o pacote express importado para o arquivo pela variavel express.
 const app = express();
